@@ -1,2 +1,0 @@
-# telegram-rangi
-social app
